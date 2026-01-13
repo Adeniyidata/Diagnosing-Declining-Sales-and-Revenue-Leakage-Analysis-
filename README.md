@@ -1,2 +1,6 @@
-# Diagnosing-Declining-Sales-and-Revenue-Leakage-Analysis-
- Diagnosed declining sales and revenue leakage in a retail e-commerce business using historical transaction data. Analyzed seasonality, discount effectiveness, product performance, and geography to identify root causes and deliver data-driven recommendations to improve net revenue, margins, and sales sustainability.
+
+ # Diagnosing Declining Sales and Revenue Leakage in a Retail E-Commerce Company#
+
+## 📌 Project Overview
+This project analyzes declining sales performance and revenue leakage in a retail e-commerce company over the period **2018–2022**. The goal was to identify root causes of revenue decline, quantify inefficiencies, and provide actionable, data-driven recommendations to improve net revenue, margins, and sales sustainability.
+
